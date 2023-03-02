@@ -45,7 +45,7 @@ This repo is the full source of ultrasound data collection. You can check the pr
 3. It is not necessary to control the speaking volume, the distance between the mouth and the bottom microphone, within 20cm, but please keep the two at the same level.
 4. We highly recommend that you speak out and record the materials listed. English better.
 Materials Link: [TIMIT](https://catalog.ldc.upenn.edu/docs/LDC93S1/PROMPTS.TXT)
-Example:
+Example:   
 ![figure](./pic/example.png)
 
 ### Other Dataset
